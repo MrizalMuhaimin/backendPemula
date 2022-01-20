@@ -1,0 +1,24 @@
+{
+  "name": "backendPemula",
+  "version": "1.0.0",
+  "description": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server-js": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrizalMuhaimin/backendPemula.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Rizal Muhaimin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrizalMuhaimin/backendPemula/issues"
+  },
+  "homepage": "https://github.com/MrizalMuhaimin/backendPemula#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  }
+}
